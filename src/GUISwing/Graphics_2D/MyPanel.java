@@ -23,7 +23,7 @@ public class MyPanel extends JPanel {
 	}
 	
 	// This method will be invoked automatically.
-		// No need to invoke it anywhere
+	// No need to invoke it anywhere
 		public void paint(Graphics g) {
 			// Graphics2D is a child class of the Graphics g object
 			
